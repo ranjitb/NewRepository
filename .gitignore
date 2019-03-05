@@ -1,0 +1,6 @@
+test-report.html
+taget/
+*.log
+*/password.txt
+
+*/*.jar
