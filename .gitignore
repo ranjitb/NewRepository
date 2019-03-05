@@ -3,4 +3,4 @@ taget/
 *.log
 */password.txt
 */*.jar
-*.xml
+*/*.xml
