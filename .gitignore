@@ -3,4 +3,8 @@ taget/
 *.log
 */password.txt
 */*.jar
+<<<<<<< HEAD
 */*.xml
+=======
+*.xml
+>>>>>>> 1924275... adding file directly from LWD to LR
